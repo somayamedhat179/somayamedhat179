@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Somaya Medhat  
 
-🎓 I'm a <b>2nd-year CS student</b>.  
+🎓 2nd-year computer science student, Zagazig University.
 💻 Aspiring <b>Frontend Developer</b> & <b>Problem Solver</b>.  
-✨ Passionate about building elegant, user-friendly web interfaces.  
-
 ---
 
 ## 💻 About Me  
